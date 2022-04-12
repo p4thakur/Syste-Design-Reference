@@ -1,0 +1,10 @@
+Disbursement Retry mechanism :- 
+multiple type of disbursement PG/NONPg processor has been developed
+Consumer will consume message to be disbursed.
+we are updating time to disburse and pushing it to disbursement List
+if it is successful then we are removing it from disbursement list and set.
+while putting it into disbursement list we will first check if this already exists or not. if it exists then we won't put in list.
+
+Lock cases:
+Distributed Redis Lock should Expire if any of server fails
+The

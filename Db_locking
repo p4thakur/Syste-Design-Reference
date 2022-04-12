@@ -1,0 +1,24 @@
+locking beavir on DB::
+
+https://stackoverflow.com/questions/6066205/when-using-mysqls-for-update-locking-what-is-exactly-locked#:~:text=A%20SELECT%20...,would%20set%20on%20the%20rows
+https://dev.mysql.com/doc/refman/8.0/en/innodb-locking.html#innodb-gap-locks
+
+https://stackoverflow.com/questions/42545523/mysql-gap-lock-reasoning
+
+
+
+
+Indexes:
+https://blog.nodeswat.com/making-slow-queries-fast-with-composite-indexes-in-mysql-eb452a8d6e46
+https://medium.com/bumble-tech/bitmap-indexes-in-go-unbelievable-search-speed-bb4a6b00851
+https://thoughts.t37.net/resizing-your-elasticsearch-indexes-in-production-d7a0402d137e
+https://nishantnitb.medium.com/system-design-chapter-5-indexes-in-databases-beb90295dbcf
+https://dzone.com/articles/mysqls-index-hints-can-improve
+
+https://www.sqlshack.com/top-10-questions-answers-sql-server-indexes/
+https://www.red-gate.com/simple-talk/sql/performance/index-selection-and-the-query-optimizer/#:~:text=The%20decision%20of%20whether%20to,if%20the%20index%20is%20chosen.
+https://use-the-index-luke.com/
+###############################################
+
+
+

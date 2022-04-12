@@ -1,0 +1,70 @@
+ACID,
+Multi Transaction,
+Distributed Transaction,
+Local Transaction,
+Distributed Lock,
+Encryption Techniques,
+Caching,
+Messaging Queue,
+Fault Tolerance,
+SAGA concept etc
+
+basic availablity
+cconsitency
+caching
+sharding
+
+than my copy--> aal design lecture  +plus concpet
+
+googdrive.
+map.
+if time permit uber.
+
+For whitehat:
+Flash sale system desing
+Location based
+
+Extar toppic-> Rate limitor 
+
+#########################
+Inside Paytm wiki I can learn this
+https://wiki.mypaytm.com/display/TECHTALK/CircuitBreaker
+https://wiki.mypaytm.com/display/TECHTALK/Cryptography+and+Secure+Payments
+https://wiki.mypaytm.com/display/TECHTALK/Dagger2
+https://wiki.mypaytm.com/display/TECHTALK/GraphQL
+https://wiki.mypaytm.com/display/TECHTALK/Microservices+Orchestration+Patterns
+https://wiki.mypaytm.com/pages/viewpage.action?pageId=232475433
+
+
+DEVOPS:
+https://wiki.mypaytm.com/display/TECHTALK/Kubernetes
+https://wiki.mypaytm.com/display/TECHTALK/Redis+Clustering
+docker
+CICD
+
+
+https://wiki.mypaytm.com/display/CAT/Distributed+Key-Value+Store
+https://wiki.mypaytm.com/display/TravelM/RabbitMQ+Clustering+POC
+https://wiki.mypaytm.com/display/TravelM/Redis+Clustering
+
+
+##########################
+GRPC
+remote procedural call
+
+https://medium.com/better-programming/understanding-grpc-60737b23e79e
+https://blog.mithun.pro/p/building-fast-and-efficient-microservices
+############################
+https://blog.opstree.com/2019/10/29/redis-cluster-setup-sharding-and-failover-testing/
+https://blog.opstree.com/2020/12/15/prometheus-at-scale-part-1/
+https://blog.opstree.com/2020/10/06/elasticsearch-cluster-monitoring/
+https://blog.opstree.com/2020/10/27/how-to-implement-ci-cd-using-aws-codebuild-codedeploy-and-codepipeline/
+https://blog.opstree.com/2019/03/12/migrate-your-data-between-various-databases/
+https://blog.opstree.com/2018/05/08/prometheus-overview-and-setup/
+https://blog.opstree.com/2021/01/05/elasticsearch-backup-and-restore-in-production/
+https://blog.opstree.com/2020/08/25/how-to-setup-jenkins-in-just-few-minutes/
+https://blog.opstree.com/2019/07/23/mysql-monitoring/
+https://blog.opstree.com/2019/10/22/redis-cluster-architecture-replication-sharding-and-failover/
+
+https://blog.opstree.com/2019/03/26/stay-away-replication-lag/
+

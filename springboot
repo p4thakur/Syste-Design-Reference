@@ -1,0 +1,18 @@
+https://www.guru99.com/spring-boot-interview-questions.html
+
+https://www.springboottutorial.com/spring-boot-interview-questions
+
+https://dzone.com/articles/top-10-spring-boot-interview-questions
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-endpoints
+
+
+22) What is the primary difference between Spring and Spring Boot?
+
+Spring is a web application development framework based on Java. On the other hand Spring Boot is an extension of the spring framework which eliminated the boilerplate configuration required for setup a Spring application.
+
+
+Starters in Spring Boot are a set of convenient descriptors that are included in Spring Boot applications. It comes with a variety of Spring-related technology which makes the entire process of the application development much easier.
+##################
+
+https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
